@@ -108,7 +108,7 @@ void ShowHelp()
 Job Dataset Converter v1.0
 
 Usage:
-  dotnet run [options]
+  SerpAPIBot run [options]
 
 Options:
   --fetch           : Fetch jobs from Google Jobs via SerpAPI
