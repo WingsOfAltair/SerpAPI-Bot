@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SerpAPI Bot": {
+      "commandName": "Project",
+      "commandLineArgs": "--batch --merge --dashboard --ai-labels"
+    }
+  }
+}
